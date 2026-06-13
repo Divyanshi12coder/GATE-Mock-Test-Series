@@ -24,7 +24,7 @@ It is designed to help aspirants practice, evaluate, and improve their preparati
 ---
 
 ## 📂 Repository Structure
----
+```
 GATE-Mock-Test-Series/
 │── README.md
 │── LICENSE
@@ -39,7 +39,7 @@ GATE-Mock-Test-Series/
 │   ├── generate_test.py
 │   ├── evaluate_results.py
 
----
+```
 
 🏆 Contribution
 Contributions are welcome!
