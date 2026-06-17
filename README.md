@@ -18,7 +18,7 @@ It is designed to help aspirants practice, evaluate, and improve their preparati
 - 📝 **Full‑length mock exams** simulating actual GATE conditions  
 - 📊 **Performance analytics** with score tracking  
 - 💡 **Detailed solutions & explanations** for every question  
-- 🔄 Regular updates with new test sets  
+- 🔄 Regular updates with new test sets 
 
 ---
 
