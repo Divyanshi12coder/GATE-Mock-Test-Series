@@ -1,4 +1,4 @@
-# 🎓 GATE Mock Test Series
+# 🎓 GATE Mock Test Series for 2k27
 
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
